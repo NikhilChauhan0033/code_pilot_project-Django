@@ -72,3 +72,9 @@ Checkout History Page
 
 User Profile Page
 <img width="1895" height="887" alt="image" src="https://github.com/user-attachments/assets/b7f5803f-a8f6-4f2f-9f77-f0c91aabff79" />
+
+Instructors Page
+<img width="1900" height="888" alt="image" src="https://github.com/user-attachments/assets/2765128f-646e-4877-9ddc-4f330f7347dc" />
+
+Instructor Deatils Page
+<img width="1897" height="895" alt="image" src="https://github.com/user-attachments/assets/f9f7da8e-8b75-4b89-8000-9486d0865cdf" />
