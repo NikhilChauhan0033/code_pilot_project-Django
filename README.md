@@ -2,7 +2,7 @@
 
 A backend-driven educational platform built with Django, designed to manage courses, categories, and user workflows using clean server-side rendering and efficient database design.
 
-🛠️ Technologies Used
+🛠️ Technologies Used : 
 Django
 Python
 SQLite
