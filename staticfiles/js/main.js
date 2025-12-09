@@ -134,7 +134,7 @@ $(document).on("click", ".remove-favorite", function (e) {
           $(".cart-sec1").append(`
             <div class="empty-cart">
               <p><i class="fa-solid fa-heart-circle-exclamation"></i>Your Wishlist is currently empty.</p>
-              <a href="{% url 'courses' %">
+             <a href="/courses/">
                 <button>Return to Courses</button>
               </a>
             </div>
@@ -244,7 +244,7 @@ $(document).on("click", ".remove-cart", function (e) {
             $(".cart-sec1").append(`
             <div class="empty-cart">
         <p><i class="fa-solid fa-cart-shopping"></i>Your cart is currently empty.</p>
-        <a href="{% url 'courses' %}">
+        <a href="/courses/">
             <button>Return to Courses</button>
         </a>
     </div>
